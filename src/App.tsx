@@ -55,7 +55,7 @@ function App() {
             
 
             <footer class="pt-3 mt-4 text-muted border-top">
-            lebovsky/jimolost' © 2023
+            lebovsky/jimolost © 2023
             </footer>
           </div>
         </p>
