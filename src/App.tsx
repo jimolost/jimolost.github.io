@@ -20,7 +20,7 @@ function App() {
             </div>
 
             <div class="row  align-items-md-stretch">
-              <div class="col-md-6 mb-4">
+              <div class="col-lg-6 mb-4">
                 <div class="h-100 p-5 text-white bg-dark rounded-3">
                   <h2 class="display-6 fw-bold text-white text-sm-start text-center">Ожидания</h2>
                   <p  class="col-md-8 fs-4 text-white text-start">
@@ -28,7 +28,7 @@ function App() {
                   </p>
                 </div>
               </div>
-              <div class="col-md-6 mb-4">
+              <div class="col-lg-6 mb-4 ">
                 <div class="h-100 p-5 bg-light border rounded-3">
                   <h2 class="display-5 fw-bold text-dark text-sm-start text-center">hard skills</h2>
                   <p class="col-md-8 fs-4 text-dark text-start">
